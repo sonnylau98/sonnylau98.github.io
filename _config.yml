@@ -80,7 +80,7 @@ content:
     content:
       - layout: left
         title: Sequence analysis and homology modeling of glutamine synthetase (GS)
-        caption: [https://api.semanticscholar.org/CorpusID:248377217](https://api.semanticscholar.org/CorpusID:248377217)
+#        caption: [https://api.semanticscholar.org/CorpusID:248377217](https://api.semanticscholar.org/CorpusID:248377217)
 #        sub_title: Bsc in Mathematics
         quote: >
           Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp. 
