@@ -79,8 +79,6 @@ content:
       - layout: left
         title: Sequence analysis and homology modeling of glutamine synthetase (GS)
         link: https://api.semanticscholar.org/CorpusID:248377217
- #       picture: images/GS.jpg
- #       img_style: project-img
         quote: >
           Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp. 
           (Published by The ICBB 2022 Conference on Bio-informatics) 
@@ -107,10 +105,9 @@ content:
         title: Shanghai University
         caption: 2023 - 
         sub_title: Postgraduate in Deep Learning
-        # quote: >
-          
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
+        description: | # this will include new lines to allow paragraphs
           - Advisor：Yaxin Peng
           - Research Group：Cross-Modality Medical Image Segmentation
           
