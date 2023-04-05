@@ -75,7 +75,7 @@ content:
         quote: >
           The project is still ongoing.
         description: | # this will include new lines to allow paragraphs
-          Topological Data Analysis (TDA) can be applied in various fields, such as biology, neuroscience, engineering, and social sciences. However, its classical methods have exponential time complexity, making it computationally expensive for large datasets. To address this issue, many researchers have proposed quantum algorithms for accelerating TDA's speed. While the implementation of speed-up algorithms in coding is still ongoing, I have attempted to achieve this goal using the qiskit package in Python. Specifically, I have implemented some methods, such as moment estimation and Chebyshev polynomial, in NISQ-QTDA (Ubaru et al., 2021).
+          Topological Data Analysis (TDA) can be applied in various fields, such as biology, neuroscience, engineering, and social sciences. However, its classical methods have <mark>exponential</mark> time complexity, making it computationally expensive for large datasets. To address this issue, many researchers have proposed quantum algorithms for <mark>accelerating</mark> TDA's speed. While the implementation of speed-up algorithms in coding is still ongoing, I have attempted to achieve this goal using the qiskit package in Python. Specifically, I have implemented some methods, such as moment estimation and Chebyshev polynomial, in NISQ-QTDA (Ubaru et al., 2021).
 
   - layout: list # Type of content section (list/text)
     content:
