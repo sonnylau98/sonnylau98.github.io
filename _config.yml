@@ -47,7 +47,7 @@ instagram_username: sonnylau8
 
 # About Section
 # about_title: About Me
-about_profile_image: images/me.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   My name’s Jingze and I’m a postgraduate student in Shanghai University. My study is focus on applying Mathematics in <mark>Computer Vision</mark> Based on <mark>Deep Learning</mark>, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled Atom Simulation problems using <mark>Machine Learning</mark> methods and explored the use of Quantum Computing to speed up the topology data analysis process.
