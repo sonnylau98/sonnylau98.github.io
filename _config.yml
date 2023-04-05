@@ -47,9 +47,14 @@ github_username:  sonnylau98
 # about_title: About Me
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Jingze and I'm a Master of Deep Learning in Shanghai University.
 
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My name's Jingze and I'm a Master of Deep Learning in Shanghai University. My study is focus on applying Mathematics in Computer Vision Based on Deep Learning, including Image Restoration and segmentation.
+  
+  I also participated in the MIT blended learning program, where I tackled atom simulation problems using machine learning methods and explored the use of quantum computing to speed up the topology data analysis process.
+  
+  Plus, I enjoy enhancing my critical thinking skills, writing mathematical popular science articles, and learning about cryptography.
+  
+  I am a person who is good at self-reflection, has a pioneering spirit, and enjoys communicating with others.
 
 content:
   - title: Projects # Title for the section
@@ -99,8 +104,8 @@ content:
 
 #          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: #Education # Title for the section
-    layout: list # Type of content section (list/text)
+# - title: #Education # Title for the section
+  - layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Shanghai University
@@ -116,14 +121,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Some of my other interests and hobbies are:
+      - Simple game development
+      - 3D modeling for art purposes
+      - Calisthenics
+      - Photography
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      [Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
