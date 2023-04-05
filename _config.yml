@@ -77,11 +77,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        name: Sequence analysis and homology modeling of glutamine synthetase (GS)
+        title: Sequence analysis and homology modeling of glutamine synthetase (GS)
         link: https://api.semanticscholar.org/CorpusID:248377217
         picture: images/GS.jpg
         img_style: project-img
-        article: |
+        quote: >
           Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp. 
           (Published by The ICBB 2022 Conference on Bio-informatics) 
         description: | # this will include new lines to allow paragraphs
