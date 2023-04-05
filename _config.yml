@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sonny Lau
+name: Jingze Liu
 title: Master of Deep Learning
 email: sonnyliu98@outlook.com
 website: https://github.com/sonnylau98
@@ -46,9 +46,9 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/20230405-131205.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Sonny and I'm a Master of Deep Learning in Shanghai University.
+  My name's Jingze and I'm a Master of Deep Learning in Shanghai University.
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
