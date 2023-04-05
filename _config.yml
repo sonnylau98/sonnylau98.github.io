@@ -48,10 +48,13 @@ github_username:  sonnylau98
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hi! My name's Jingze and I'm a Master of Deep Learning in Shanghai University. My study is focus on applying Mathematics in Computer Vision Based on Deep Learning, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled atom simulation problems using machine learning methods and explored the use of quantum computing to speed up the topology data analysis process.
+  Hi! My name's Jingze and I'm a postgraduate student in Shanghai University. My study is focus on applying Mathematics in <mark>Computer Vision</mark> Based on Deep Learning, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled <mark>atom simulation</mark> problems using machine learning methods and explored the use of <mark>quantum computing</mark> to speed up the topology data analysis process.
   
-  Plus, I enjoy enhancing my critical thinking skills, writing mathematical popular science articles, and learning about cryptography.
-  
+  Plus, I enjoy:
+  - cryptography
+  - game theory
+  - fundamental mathematics.
+
   I am a person who is good at self-reflection, has a pioneering spirit, and enjoys communicating with others.
 
 content:
@@ -59,34 +62,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: NISQ_QTDA
+        link: github.com/sonnylau98
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  sonnylau98/NISQ_QTDA
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: sonnylau98/NISQ_QTDA
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          The project is still ongoing.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I have been working on a project to implement exponential speedup of Topological Data Analysis (TDA) using quantum computing methods with Python.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+#  - title: Experience # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: The Boring Company
+#        link: boringcompany.com
+#        # link_text: boringcompany.com
+#        sub_title: Senior Network System Administrator
+#        caption: November 2017 - Present
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#        description: | # this will include new lines to allow paragraphs
+#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
   
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,14 +114,10 @@ content:
         title: Qingdao University
         caption: 2019 - 2023
         sub_title: Bsc in Mathematics
-        quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#        quote: >
         description: | # this will include new lines to allow paragraphs
-#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Undergraduate achievement ranks in the top 5% of the grade, with algebra, mathematical analysis, topology, and other subjects ranking first in the grade.
 
-#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-# - title: #Education # Title for the section
   - layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -126,11 +125,9 @@ content:
         caption: 2023 - 
         sub_title: MPhil in Deep Learning
         quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1922, SHU is a public research university in Shanghai, China. It offers programs in engineering, science, law, business, humanities, and social sciences. It's recognized for its strengths in these fields and has partnerships with over 200 universities and research institutions worldwide.
         description: | # this will include new lines to allow paragraphs
-#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
 
   - title: A Little More About Me
     layout: text
@@ -140,6 +137,7 @@ content:
       - 3D modeling for art purposes
       - Calisthenics
       - Photography
+      - Film
       - Other tricks like timbre cloning based on deep learning
 
 # Footer
