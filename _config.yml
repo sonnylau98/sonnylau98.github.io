@@ -48,9 +48,7 @@ github_username:  sonnylau98
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  My name's Jingze and I'm a Master of Deep Learning in Shanghai University. My study is focus on applying Mathematics in Computer Vision Based on Deep Learning, including Image Restoration and segmentation.
-  
-  I also participated in the MIT blended learning program, where I tackled atom simulation problems using machine learning methods and explored the use of quantum computing to speed up the topology data analysis process.
+  Hi! My name's Jingze and I'm a Master of Deep Learning in Shanghai University. My study is focus on applying Mathematics in Computer Vision Based on Deep Learning, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled atom simulation problems using machine learning methods and explored the use of quantum computing to speed up the topology data analysis process.
   
   Plus, I enjoy enhancing my critical thinking skills, writing mathematical popular science articles, and learning about cryptography.
   
@@ -89,7 +87,23 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+  
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Biomedical and Bio-informatics
+        caption: https://arxiv.org/ftp/arxiv/papers/2204/2204.11026.pdf
+        sub_title: Bsc in Mathematics
+        quote: >
+          Bioinformatic analysis for structure and function of Glutamine synthetase (GS) from Antarctic sea ice bacterium Pseudoalteromonas sp. M175
+        description: | # this will include new lines to allow paragraphs
+          - Object: To predict structure and function of Glutamine synthetase (GS) from Pseudoalteromonas sp. by bioinformatics technology, and to provide a theoretical basis for further study.
+          - Methods: Open reading frame (ORF) of GS sequence from Pseudoalteromonas sp. was obtained by ORF finder and was translated into amino acid residue. The structure domain was analyzed by Blast. 
+          - Tools: Protparam, ProtScale, SignalP-4.0, TMHMM, SOPMA, SWISS-MODEL, NCBI SMART-BLAST and MAGA 7.0, the structure and function of the protein were predicted and analyzed.
+          - Results: The results showed that the sequence was GS with 468 amino acid residues, theoretical molecular weight was 51986.64 Da. The protein has the closest evolutionary status with Shewanella oneidensis. Then it had no signal peptide site and transmembrane domain. Secondary structure of GS contained 35.04% α-helix, 16.67% Extended chain, 5.34% β-turn, 42.95% RandomCoil.
+          - Conclusions: This GU was a variety of biological functions of protein that may be used as a molecular samples of microbial nitrogen metabolism in extreme environments.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -126,9 +140,7 @@ content:
       - 3D modeling for art purposes
       - Calisthenics
       - Photography
-
-      Look at this cool image  
-      [Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Other tricks like timbre cloning based on deep learning
 
 # Footer
 footer_show_references: true
