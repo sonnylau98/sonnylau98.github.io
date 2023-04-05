@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jingze Liu
-title: Postgraduate in Deep Learning
+#title: Postgraduate in Deep Learning
 email: sonnyliu98@outlook.com
 phone: (+86)13361223604
 # website: https://github.com/sonnylau98
@@ -79,8 +79,8 @@ content:
       - layout: left
         title: Sequence analysis and homology modeling of glutamine synthetase (GS)
         link: https://api.semanticscholar.org/CorpusID:248377217
-        picture: images/GS.jpg
-        img_style: project-img
+ #       picture: images/GS.jpg
+ #       img_style: project-img
         quote: >
           Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp. 
           (Published by The ICBB 2022 Conference on Bio-informatics) 
@@ -112,23 +112,14 @@ content:
 #          Research Group：
         description: | # this will include new lines to allow paragraphs
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Some of my other interests and hobbies are:
-      - Simple game development
-      - 3D modeling for art purposes
-      - Calisthenics
-      - Other tricks like timbre cloning based on deep learning
-
+          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: NISQ_QTDA
         link: github.com/sonnylau98
-        # link_text: Project Website
+          # link_text: Project Website
         additional_links:
           - title:  github.com/sonnylau98/NISQ_QTDA
             icon: fab fa-github
@@ -159,6 +150,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is an entertainment project that involves using Python to crawl information on celebrity stars and their relationships from Baidu Baike, a popular Chinese online encyclopedia. The project then automatically generates a network graph to visualize the relationships between the celebrities.
 
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Some of my other interests and hobbies are:
+      - Simple game development
+      - 3D modeling for art purposes
+      - Calisthenics
+      - Other tricks like timbre cloning based on deep learning
+
+  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
