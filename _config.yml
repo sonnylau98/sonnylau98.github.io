@@ -15,7 +15,7 @@ website: https://github.com/sonnylau98
 darkmode: false
 
 # Social links
-# twitter_username: facespics
+twitter_username: JingzeLiu11
 # github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -46,7 +46,7 @@ darkmode: false
 
 # About Section
 # about_title: About Me
-about_profile_image: images/20230405-131205.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name's Jingze and I'm a Master of Deep Learning in Shanghai University.
 
