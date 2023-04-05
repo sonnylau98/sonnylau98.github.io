@@ -77,6 +77,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           Topological Data Analysis (TDA) can be applied in various fields, such as biology, neuroscience, engineering, and social sciences. However, its classical methods have exponential time complexity, making it computationally expensive for large datasets. To address this issue, many researchers have proposed quantum algorithms for accelerating TDA's speed. While the implementation of speed-up algorithms in coding is still ongoing, I have attempted to achieve this goal using the qiskit package in Python. Specifically, I have implemented some methods, such as moment estimation and Chebyshev polynomial, in NISQ-QTDA (Ubaru et al., 2021).
 
+  - layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Stars Crawler from Baidu
+        link: github.com/sonnylau98
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/sonnylau98/stars-crawler-baidu
+            icon: fab fa-github
+            url: github.com/sonnylau98/stars-crawler-baidu
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A fun way to help friends around us who enjoy gossip.
+        description: | # this will include new lines to allow paragraphs
+          This is an entertainment project that involves using Python to crawl information on celebrity stars and their relationships from Baidu Baike, a popular Chinese online encyclopedia. The project then automatically generates a network graph to visualize the relationships between the celebrities.
+          
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -114,9 +132,12 @@ content:
         title: Qingdao University
         caption: 2019 - 2023
         sub_title: Bsc in Mathematics
-#        quote: >
+        quote: >
+          Qingdao University is a public comprehensive university located in Qingdao, China. It offers diverse programs in 26 schools, covering engineering, science, management, law, medicine, and liberal arts. 
         description: | # this will include new lines to allow paragraphs
-          Undergraduate achievement ranks in the top 5% of the grade, with algebra, mathematical analysis, topology, and other subjects ranking first in the grade.
+          - Undergraduate achievement ranks in the top 5% of the grade, with algebra, mathematical analysis, topology, and other subjects ranking first in the grade.
+          - Awarded six academic scholarships
+          - Selected as an outstanding student during my undergraduate studies
 
   - layout: list # Type of content section (list/text)
     content:
@@ -125,7 +146,7 @@ content:
         caption: 2023 - 
         sub_title: MPhil in Deep Learning
         quote: >
-          Established in 1922, SHU is a public research university in Shanghai, China. It offers programs in engineering, science, law, business, humanities, and social sciences. It's recognized for its strengths in these fields and has partnerships with over 200 universities and research institutions worldwide.
+          Established in 1922, SHU is a public research university in Shanghai, China. It's recognized for its strengths in engineering, science, and business disciplines and has partnerships with over 200 universities and research institutions worldwide.
         description: | # this will include new lines to allow paragraphs
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
 
