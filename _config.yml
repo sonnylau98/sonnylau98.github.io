@@ -57,8 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
   - fundamental mathematics
 
   I am a person who is good at self-reflection, has a pioneering spirit, and enjoys communicating with others.
-
-
           
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -79,10 +77,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Sequence analysis and homology modeling of glutamine synthetase (GS)
-#        caption: [https://api.semanticscholar.org/CorpusID:248377217](https://api.semanticscholar.org/CorpusID:248377217)
-#        sub_title: Bsc in Mathematics
-        quote: >
+        name: Sequence analysis and homology modeling of glutamine synthetase (GS)
+        link: https://api.semanticscholar.org/CorpusID:248377217
+        picture: images/GS.jpg
+        img_style: project-img
+        article: |
           Bioinformatic analysis for structure and function of Glutamine synthetase(GS) in Pseudomonas alternata sp. 
           (Published by The ICBB 2022 Conference on Bio-informatics) 
         description: | # this will include new lines to allow paragraphs
@@ -110,7 +109,7 @@ content:
         sub_title: Postgraduate in Deep Learning
         quote: >
           Advisor：Yaxin Peng
-          Research Group：
+#          Research Group：
         description: | # this will include new lines to allow paragraphs
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
 
