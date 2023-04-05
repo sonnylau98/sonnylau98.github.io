@@ -108,9 +108,8 @@ content:
         caption: 2023 - 
         sub_title: Postgraduate in Deep Learning
         quote: >
-          Advisor：Yaxin Peng
-          
-          Research Group：Cross-Modality Medical Image Segmentation
+          - Advisor：Yaxin Peng
+          - Research Group：Cross-Modality Medical Image Segmentation
           
         description: | # this will include new lines to allow paragraphs
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
