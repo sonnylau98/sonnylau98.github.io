@@ -48,7 +48,7 @@ github_username:  sonnylau98
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hi! My name's Jingze and I'm a postgraduate student in Shanghai University. My study is focus on applying Mathematics in <mark>Computer Vision</mark> Based on Deep Learning, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled <mark>atom simulation</mark> problems using machine learning methods and explored the use of <mark>quantum computing</mark> to speed up the topology data analysis process.
+  Hi! My name's Jingze and I'm a postgraduate student in Shanghai University. My study is focus on applying Mathematics in <mark>Computer Vision</mark> Based on Deep Learning, including Image Restoration and segmentation. I also participated in the MIT blended learning program, where I tackled <mark>Atom Simulation</mark> problems using machine learning methods and explored the use of <mark>Quantum Computing</mark> to speed up the topology data analysis process.
   
   Plus, I enjoy:
   - cryptography
@@ -66,16 +66,16 @@ content:
         link: github.com/sonnylau98
         # link_text: Project Website
         additional_links:
-          - title:  sonnylau98/NISQ_QTDA
+          - title:  github.com/sonnylau98/NISQ_QTDA
             icon: fab fa-github
-            url: sonnylau98/NISQ_QTDA
+            url: github.com/sonnylau98/NISQ_QTDA
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           The project is still ongoing.
         description: | # this will include new lines to allow paragraphs
-          I have been working on a project to implement exponential speedup of Topological Data Analysis (TDA) using quantum computing methods with Python.
+          Topological Data Analysis (TDA) can be applied in various fields, such as biology, neuroscience, engineering, and social sciences. However, its classical methods have exponential time complexity, making it computationally expensive for large datasets. To address this issue, many researchers have proposed quantum algorithms for accelerating TDA's speed. While the implementation of speed-up algorithms in coding is still ongoing, I have attempted to achieve this goal using the qiskit package in Python. Specifically, I have implemented some methods, such as moment estimation and Chebyshev polynomial, in NISQ-QTDA (Ubaru et al., 2021).
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
