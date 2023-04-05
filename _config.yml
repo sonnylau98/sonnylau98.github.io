@@ -107,12 +107,12 @@ content:
         title: Shanghai University
         caption: 2023 - 
         sub_title: Postgraduate in Deep Learning
-        quote: >
-          - Advisor：Yaxin Peng
-          - Research Group：Cross-Modality Medical Image Segmentation
+        # quote: >
           
         description: | # this will include new lines to allow paragraphs
           Recommended by Qingdao University for entering Shanghai University without examination to pursue a funded Mphil degree.
+          - Advisor：Yaxin Peng
+          - Research Group：Cross-Modality Medical Image Segmentation
           
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
