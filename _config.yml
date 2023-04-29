@@ -85,6 +85,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           This study used homology modeling to study the structure and molecular evolution of glutamine synthetase from Antarctic sea ice bacteria, optimized the modeling results by thermodynamic simulation, and improved the modeling accuracy by 2.7%. In addition, the secondary structure and physical and chemical characteristics are also concerned by this study.
           
+  - layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Machine-learning prediction of exciton binding energies in two-dimensional materials for photonics application
+        link: https://chemrxiv.org/engage/chemrxiv/article-details/64448b8fdf78ec50153ab591
+        quote: >
+          Surrogate modeling using Pycaret to analysis exciton binding energy.
+        description: | # this will include new lines to allow paragraphs
+          A machine learning model based on CatBoost was developed to predict the exciton binding energy of 2D materials from simple physical descriptors, achieved a R2 value of 0.8023 and mean absolute error of 0.2138 eV using the top 9 features.
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
